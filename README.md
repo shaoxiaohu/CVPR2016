@@ -83,7 +83,7 @@ WIDER FACE: A Face Detection Benchmark, CVPR, 2016. <a href="http://www.cv-found
 <li>A 3D Morphable Model Learnt From 10,000 Faces, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Booth_A_3D_Morphable_CVPR_2016_paper.pdf">[Paper]</a></li>
 </ul></li>
 
-【other paper about face】
+【other papers about face】
 <ul>
 <li>Recurrent Face Aging, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Recurrent_Face_Aging_CVPR_2016_paper.pdf">[Paper]</a></li>
 </ul></li>
@@ -105,7 +105,7 @@ WIDER FACE: A Face Detection Benchmark, CVPR, 2016. <a href="http://www.cv-found
 </ul></li>
 
 
-【other】
+【others】
 <ul>
 <li>A Direct Least-Squares Solution to the PnP Problem With Unknown Focal Length, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zheng_A_Direct_Least-Squares_CVPR_2016_paper.pdf">[Paper]</a></li>
 </ul></li>
