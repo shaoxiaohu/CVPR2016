@@ -3,7 +3,10 @@ Paper about face detection, landmark detection, recognition, reconstruction, tex
 
 【face】
 
-1. 
+1. to be continued.
+2. <ul>
+<li>Abhishek Sharma, Oncel Tuzel, David W. Jacobs, Deep Hierarchical Parsing for Semantic Segmentation, CVPR, 2015. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sharma_Deep_Hierarchical_Parsing_2015_CVPR_paper.pdf">[Paper]</a></li>
+</ul></li>
 
 
 【other】
